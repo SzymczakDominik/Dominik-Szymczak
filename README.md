@@ -4,8 +4,13 @@
 A future Front-End Developer 👨‍💻
 
 
-###  Currently I can work with...
+###  I can work with...
 
-[![Solid Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,git)](https://skillicons.dev)
+[![Solid Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,figma,git)](https://skillicons.dev)
 
+###  Currently in progress...
+
+https://szymczakdominik.github.io/Crypto-Page/
+
+https://szymczakdominik.github.io/Second-Page/
 
