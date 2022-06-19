@@ -1,4 +1,4 @@
-[### Hi! I'm Dominik
+### Hi! I'm Dominik
 ...a creative person who constantly developing programming skills. 
 
 A future Front-End Developer 👨‍💻
