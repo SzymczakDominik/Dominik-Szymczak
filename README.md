@@ -1,4 +1,4 @@
-### Hi! I'm Dominik
+[### Hi! I'm Dominik
 ...a creative person who constantly developing programming skills. 
 
 A future Front-End Developer 👨‍💻
@@ -12,5 +12,4 @@ A future Front-End Developer 👨‍💻
 
 https://szymczakdominik.github.io/Crypto-Page/
 
-https://szymczakdominik.github.io/Second-Page/
-
+https://szymczakdominik.github.io/Gym-Bulls-Page/
